@@ -33,6 +33,8 @@ django-admin help ...
 
 ### 7. python manage.py runserver
 
+python manage.py migrate
+
 ## Lancement / Setup / Deploy : 
 
 
