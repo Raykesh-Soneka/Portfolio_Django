@@ -22,5 +22,6 @@ $\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ PS C:\Users...\Portfolio_Dja
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
-`(.venv)` pip install -r requirements.txt
+#`(.venv)` pip install -r requirements.txt
+pip install -r requirements.txt
 ```
