@@ -29,6 +29,10 @@ On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.
 django-admin --help
 django-admin help ...
 
+### 6. cd src
+
+### 7. python manage.py runserver
+
 ## Lancement / Setup / Deploy : 
 
 
