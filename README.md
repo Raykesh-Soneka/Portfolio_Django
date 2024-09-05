@@ -24,6 +24,11 @@ On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.
 
 ```pip freeze > requirementsR.txt``` pour remplir automatiquement le requirementsR
 
+### 5. django-admin startproject Portfolio_Django
+
+django-admin --help
+django-admin help ...
+
 ## Lancement / Setup / Deploy : 
 
 
