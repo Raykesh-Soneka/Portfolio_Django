@@ -26,16 +26,16 @@ On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.
 
 ```pip freeze > requirementsR.txt``` pour remplir automatiquement le requirementsR
 
-### 5. `django-admin startproject Portfolio_Django`
+### 6. ~~`django-admin startproject Portfolio_Django`~~ (déjà fait)
 
 django-admin --help
 
 django-admin help ...
 (Créé le dossier Portfolio_Django/Portfolio_Django, le manage.py, init, settings, url , ...)
 
-### 6. `cd src`
+### 7. `cd src`
 
-### 7. `python manage.py runserver`
+### 8. `python manage.py runserver`
 
 python manage.py migrate
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
@@ -50,4 +50,6 @@ python -m venv .venv
 python -m pip install --upgrade pip
 `(.venv)` pip install -r requirementsR.txt
 pip install -r requirementsR.txt
+cd src
+python manage.py runserver
 ```
