@@ -4,7 +4,7 @@
 
 ### 2. `python -m venv .venv`
 
-peut nécessité le passage par CMD 
+peut nécessité le passage par CMD (Crée le fichier .venv)
 
 ### 3. `.venv\Scripts\activate`
 
@@ -16,8 +16,11 @@ Résultat :
 $\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ PS C:\Users...\Portfolio_Django> |
 
 On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.ps1`
+(lance l'environnement virtuelle)
 
 ### 4. `python -m pip install --upgrade pip`
+
+(met à jour pip)
 
 ### 5. `pip install -r requirementsR.txt`
 
@@ -28,6 +31,7 @@ On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.
 django-admin --help
 
 django-admin help ...
+(Créé le dossier Portfolio_Django/Portfolio_Django, le manage.py, init, settings, url , ...)
 
 ### 6. `cd src`
 
@@ -35,6 +39,7 @@ django-admin help ...
 
 python manage.py migrate
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+  (Demarre le serveur)
 
 ## Lancement / Setup / Deploy : 
 
