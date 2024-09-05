@@ -7,7 +7,7 @@
 ### 3. .venv\Scripts\activate
 
 EN ADMIN : `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned` en cas d'erreur
-(détail)[https://tutorial.djangogirls.org/fr/django_installation/]
+[détail](https://tutorial.djangogirls.org/fr/django_installation/)
 Résultat : 
 $\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ PS C:\Users...\Portfolio_Django> |
 
@@ -21,6 +21,6 @@ $\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ PS C:\Users...\Portfolio_Dja
 ```zsh
 python -m venv .venv
 .venv\Scripts\activate
-$\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ python -m pip install --upgrade pip
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+`(.venv)` pip install -r requirements.txt
 ```
