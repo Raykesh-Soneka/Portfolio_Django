@@ -34,6 +34,7 @@ django-admin help ...
 ### 7. python manage.py runserver
 
 python manage.py migrate
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ## Lancement / Setup / Deploy : 
 
