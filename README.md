@@ -9,8 +9,7 @@ peut nécessité le passage par CMD
 ### 3. .venv\Scripts\activate
 
 EN ADMIN : `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned` en cas d'erreur
-
-[détail](https://tutorial.djangogirls.org/fr/django_installation/)
+([détail](https://tutorial.djangogirls.org/fr/django_installation/))
 
 Résultat : 
 
