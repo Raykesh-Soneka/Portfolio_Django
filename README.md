@@ -2,11 +2,11 @@
 
 ### 1. Clonner le Repo
 
-### 2. python -m venv .venv
+### 2. `python -m venv .venv`
 
 peut nécessité le passage par CMD 
 
-### 3. .venv\Scripts\activate
+### 3. `.venv\Scripts\activate`
 
 EN ADMIN : `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned` en cas d'erreur
 ([détail](https://tutorial.djangogirls.org/fr/django_installation/))
@@ -17,20 +17,21 @@ $\color{rgba(100,255,100, 0.75)}{\textsf{(.venv)}}$ PS C:\Users...\Portfolio_Dja
 
 On peux aussi (Si c'est un problème de l'éditeur) `$ . .venv\Scripts\activate.ps1`
 
-### 4. python -m pip install --upgrade pip
+### 4. `python -m pip install --upgrade pip`
 
-### 5. pip install -r requirementsR.txt
+### 5. `pip install -r requirementsR.txt`
 
 ```pip freeze > requirementsR.txt``` pour remplir automatiquement le requirementsR
 
-### 5. django-admin startproject Portfolio_Django
+### 5. `django-admin startproject Portfolio_Django`
 
 django-admin --help
+
 django-admin help ...
 
-### 6. cd src
+### 6. `cd src`
 
-### 7. python manage.py runserver
+### 7. `python manage.py runserver`
 
 python manage.py migrate
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
