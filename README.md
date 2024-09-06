@@ -92,4 +92,4 @@ Utilisateur :
 MDP : 
 `Ce mot de passe est trop court. Il doit contenir au minimum 8 caractères.`
 Utilisateur avec droit admin:
-Un utilisateur avec droit admin peut modifer les droits et la BDD. Pour avoir c'est droit contacté Moi.
+Un utilisateur avec droit admin peut modifer les droits et la BDD. Pour avoir ces droit contacté Moi.
