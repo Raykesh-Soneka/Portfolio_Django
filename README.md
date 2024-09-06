@@ -66,7 +66,7 @@ python manage.py runserver
 
 ## Django CMS
 
-
+page Admin : http://127.0.0.1:8000/fr/admin/cms/pagecontent/
 $ cd C:\Users...\Portfolio_Django\myCMSproject
 
 ```
