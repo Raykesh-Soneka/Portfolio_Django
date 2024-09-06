@@ -41,9 +41,12 @@ python manage.py migrate
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
   (Demarre le serveur)
 
-```
-djangocms myCMSproject
+~~djangocms myCMSproject~~ (déjà fait)
+
 $ cd C:\Users...\Portfolio_Django\myCMSproject
+
+```
+cd myCMSproject
 $ python -m manage runserver
 ```
 
