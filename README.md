@@ -49,6 +49,7 @@ $ cd C:\Users...\Portfolio_Django\myCMSproject
 cd myCMSproject
 $ python -m manage runserver
 ```
+[django CMS](/myCMSproject/README.md)
 
 ## Lancement / Setup / Deploy : 
 
