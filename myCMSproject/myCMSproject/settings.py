@@ -170,7 +170,11 @@ LANGUAGES = [
     # Add additional languages here
 ]
 
-TIME_ZONE = 'UTC'
+# TIME_ZONE = 'UTC'
+#UTC = 'Etc/GMT+0'
+# TIME_ZONE = 'Europe/Istanbul'
+#UTC+2 = 'Etc/GMT-2'
+TIME_ZONE = 'Etc/GMT-2'
 
 USE_I18N = True
 USE_L10N = True

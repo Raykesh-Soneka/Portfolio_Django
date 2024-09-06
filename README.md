@@ -63,3 +63,19 @@ pip install -r requirementsR.txt
 cd src
 python manage.py runserver
 ```
+
+## Django CMS
+
+
+$ cd C:\Users...\Portfolio_Django\myCMSproject
+
+```
+cd myCMSproject
+$ python -m manage runserver
+```
+En cas de problème un autre doc est disponible : [django CMS](/myCMSproject/README.md)
+
+Utilisateur : 
+`Visiteur`
+MDP : 
+`Ce mot de passe est trop court. Il doit contenir au minimum 8 caractères.`
