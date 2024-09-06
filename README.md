@@ -71,7 +71,8 @@ $ cd C:\Users...\Portfolio_Django\myCMSproject
 
 ```
 cd myCMSproject
-$ python -m manage runserver
+$ python -m manage runserver 127.0.0.1:8001
+
 ```
 En cas de problème un autre doc est disponible : [django CMS](/myCMSproject/README.md)
 
