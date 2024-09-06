@@ -205,8 +205,9 @@ SITE_ID = 1
 # A base template is part of this setup
 # https://docs.django-cms.org/en/release-4.1.x/reference/configuration.html#cms-templates
 
-CMS_TEMPLATES = (
+CMS_TEMPLATES = ( #The first template in the CMS_TEMPLATES list will be the project’s default template.
     ("base.html", _("Standard")),
+    ('home.html', _('Home page template')),
 )
 
 # Enable permissions
