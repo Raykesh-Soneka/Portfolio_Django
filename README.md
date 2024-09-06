@@ -1,5 +1,13 @@
 # Portfolio_Django
 
+## Fonctionnalités
+
+- Login d'user
+
+- Gestion d'utilisateur
+
+- Gestion du comptenu et des droits
+
 ### 1. Clonner le Repo
 
 ### 2. `python -m venv .venv`
@@ -66,12 +74,15 @@ python manage.py runserver
 
 ## Django CMS
 
-page Admin : http://127.0.0.1:8000/fr/admin/cms/pagecontent/
+page Admin : http://127.0.0.1:8901/fr/admin/cms/pagecontent/
 $ cd C:\Users...\Portfolio_Django\myCMSproject
+Login : 
+http://127.0.0.1:8901/fr/admin/login/
+
 
 ```
 cd myCMSproject
-$ python -m manage runserver 127.0.0.1:8001
+$ python -m manage runserver 127.0.0.1:8901
 
 ```
 En cas de problème un autre doc est disponible : [django CMS](/myCMSproject/README.md)
