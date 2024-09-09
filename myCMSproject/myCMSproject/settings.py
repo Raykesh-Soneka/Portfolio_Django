@@ -78,6 +78,13 @@ INSTALLED_APPS = [
     'djangocms_frontend.contrib.navigation',
     'djangocms_frontend.contrib.tabs',
     'djangocms_frontend.contrib.utilities',
+    # Plugin en Plus
+    "djangocms_file",
+    "djangocms_picture",
+    "djangocms_video",
+    "djangocms_googlemap",
+    "djangocms_snippet",
+    "djangocms_style",
 ]
 
 MIDDLEWARE = [
